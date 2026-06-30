@@ -25,6 +25,23 @@ Preview :
 
 - Live Site URL: [QR Code Component](https://haanafii-project.github.io/qr-code-component/)
 
+## Project Structure
+
+```text
+QR-CODE-COMPONENT/
+├── images/                  # Contains all project graphics and asset images
+│   ├── screenshots/         # Storage for project preview screenshots
+│   ├── favicon-32x32.png    # Browser tab icon asset
+│   └── image-qr-code.png    # The main QR code component image
+├── .gitignore               # Specifies intentionally untracked files to ignore
+├── AGENTS.md                # Instructions and guidelines for AI coding assistants
+├── index.html               # Main HTML document (Application entry point)
+├── preview.jpg              # Original design preview for the challenge
+├── README.md                # Project documentation and summary
+├── style-guide.md           # Design specifications (colors, typography, etc.)
+└── style.css                # Main stylesheet for layout and component styling
+```
+
 ## My process
 
 ### Built with
