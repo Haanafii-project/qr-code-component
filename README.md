@@ -23,7 +23,7 @@ Preview :
 
 ### Links
 
-- Live Site URL: [Add your GitHub Pages/Vercel/Netlify live site URL here](https://your-live-site-url.com)
+- Live Site URL: [QR Code Component](https://haanafii-project.github.io/qr-code-component/)
 
 ## My process
 
@@ -72,5 +72,5 @@ I do not use AI; I only read the HTML and CSS documentation.
 
 ### Author
 
-- Frontend Mentor - @Haanafiii_project
-- GitHub - @Haanafiii_project
+- Frontend Mentor - @Haanafii_project
+- GitHub - @Haanafii_project
